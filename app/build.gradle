@@ -32,10 +32,10 @@ android {
         applicationId "rocks.ecox.droiddocs"
         minSdkVersion 15
         targetSdkVersion 23
+        buildConfigField "String", "GIT_SHA", gitSha()
         versionCode 1
         versionName "1.0"
 
-        buildConfigField "String", "GIT_SHA", gitSha()
     }
     buildTypes {
         release {

@@ -6,8 +6,6 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import com.crashlytics.android.Crashlytics;
 import io.fabric.sdk.android.Fabric;
-import com.crashlytics.android.Crashlytics;
-import io.fabric.sdk.android.Fabric;
 
 public class MainActivity extends AppCompatActivity
 {
@@ -21,8 +19,8 @@ public class MainActivity extends AppCompatActivity
         setContentView(R.layout.activity_main);
 
         WebView wv= (WebView)findViewById(R.id.webview);
-        WebSettings webSettings = wv.getSettings();
-        webSettings.setJavaScriptEnabled(true);
-        wv.loadUrl("file:///android_asset/Docs/developer.android.com/guide/index.html");
+//        WebSettings webSettings = wv.getSettings();
+//        webSettings.setJavaScriptEnabled(true);
+        wv.loadUrl("file:///android_asset/reference/packages.html");
     }
 }

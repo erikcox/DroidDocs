@@ -6,6 +6,4 @@
 .DS_Store
 /build
 /captures
-/app/src/main/assets/Docs/*
-/app/src/main/assets/css/*
-/app/src/main/assets/js/*
+/app/src/main/assets/*
