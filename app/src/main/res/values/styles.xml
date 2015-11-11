@@ -9,10 +9,7 @@
         <item name="colorAccent">#94df85</item>
         <!-- Light Green -->
     </style>
-
     <style name="AppTheme" parent="AppTheme.Base"></style>
-
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
-
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
 </resources>
