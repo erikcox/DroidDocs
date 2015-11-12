@@ -6,4 +6,4 @@ In order to build this app, you will need to download a copy of the html documen
 
 ![app screenshot](https://raw.githubusercontent.com/erikcox/DroidDocs/master/screenshots/index_device_framed.png)
 
-![app screenshot](https://raw.githubusercontent.com/erikcox/DroidDocs/master/screenshots/class_device__framed.png)
+![app screenshot](https://raw.githubusercontent.com/erikcox/DroidDocs/master/screenshots/class_device_framed.png)
