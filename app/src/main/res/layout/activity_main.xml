@@ -52,4 +52,4 @@
         app:headerLayout="@layout/navheader"
         app:menu="@menu/menu_navigation" />
 
-</android.support.v4.widget.DrawerLayout>
+®</android.support.v4.widget.DrawerLayout>
